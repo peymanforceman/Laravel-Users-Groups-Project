@@ -6,7 +6,7 @@ This is a laravel challenge project for Internations.Org .
 # How to Install
 
 1. `composer install`
-2.  `setup .env database information`
+2.  `change .env.example File to .env and setup .env database information`
 3. `php artisan migrate`
 4. `php artisan passport:install --force`
 5. `php artisan serve`
