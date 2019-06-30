@@ -7,10 +7,11 @@ This is a laravel challenge project for Internations.Org .
 
 1. `composer install`
 2.  `change .env.example File to .env and setup .env database information`
-3. `php artisan migrate`
-4. `php artisan passport:install --force`
-5. `php artisan serve`
-6. `open webpage and setup username and password for admin & login.`
+3. run command : `php artisan key:generate`
+4. run command : `php artisan migrate`
+5. run command : `php artisan passport:install --force`
+6. run command : `php artisan serve`
+7. open web server and setup username and password for admin & login.
 
 Done !
 
