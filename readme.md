@@ -1,7 +1,7 @@
 
 ## User Management System
 
-This is a laravel challenge project for Internations.Org . 
+This is a laravel example project. 
 
 # How to Install
 
